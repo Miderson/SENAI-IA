@@ -6,7 +6,7 @@
 @ATTRIBUTE  dias		NUMERIC
 @ATTRIBUTE  status	{Superlotado,Atrazado,Satisfatório}
 
-@DATA
+@DATAg
 Parafuso,50,A,3,Superlotado
 Parafuso,3,A,5,Atrazado
 Polca,15,B,6,Satisfatório
